@@ -20,6 +20,21 @@ console.log('🔵🔵🔵 [SERVER BOOT] Server file loaded at:', new Date().toIS
 
 // ⚡ QUICK FIX HELPER: Simple auth wrapper
 async function quickAuth(accessToken: string) {
+  try {
+    const supabase = createClient(
+      Deno.env.get('SUPABASE_URL') || '',
+      Deno.env.get('SUPABASE_ANON_KEY') || '',
+      { global: { headers: { Authorization: `Bearer ${accessToken}` } } }
+    );
+    const { data: { user }, error } = await supabase.auth.getUser();
+    if (user) {
+      return { data: { user }, error: null };
+    }
+  } catch (e) {
+    console.error('Supabase getUser error:', e);
+  }
+  
+  // Fallback to simple auth
   const { user, error } = await authenticateUser(accessToken);
   return { data: { user }, error };
 }
