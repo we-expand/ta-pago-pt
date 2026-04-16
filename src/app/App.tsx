@@ -375,7 +375,7 @@ export default function App() {
   // Rota especial para configuração do Google Cloud TTS
   if (typeof window !== 'undefined' && window.location.pathname === '/setup/google-tts') {
     return (
-      <>
+      <div className="app-container">
         <GoogleTTSSetup 
           onComplete={() => {
             toast.success('✅ Google Cloud TTS configurado com sucesso!');
@@ -383,25 +383,25 @@ export default function App() {
           }}
         />
         <Toaster position="top-right" />
-      </>
+      </div>
     );
   }
 
   if (!session && !authMode) {
     return (
-      <>
+      <div className="app-container">
         <LandingPageNew 
           onGetStarted={() => setAuthMode('signup')} 
           onLogin={() => setAuthMode('login')}
         />
         <Toaster position="top-right" />
-      </>
+      </div>
     );
   }
 
   if (!session && authMode) {
     return (
-      <>
+      <div className="app-container">
         <CinematicAuth 
           mode={authMode}
           onSuccess={async (mockSession?: any) => {
@@ -417,7 +417,7 @@ export default function App() {
           onBackToLanding={() => setAuthMode(null)}
         />
         <Toaster position="top-right" />
-      </>
+      </div>
     );
   }
 
@@ -428,7 +428,7 @@ export default function App() {
   // --- REFINED DASHBOARD LAYOUT (BBDO Style) ---
   if (session) {
     return (
-      <>
+      <div className="app-container">
         <DashboardLayout 
           activeView={activeView} 
           setActiveView={setActiveView} 
@@ -519,7 +519,7 @@ export default function App() {
             <span className="text-xs opacity-90">Google Cloud TTS</span>
           </div>
         </button>
-      </>
+      </div>
     );
   }
 
