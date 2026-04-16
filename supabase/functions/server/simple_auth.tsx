@@ -26,7 +26,10 @@ export async function authenticateUser(accessToken: string): Promise<{ user: any
     }
     
     console.log('[SIMPLE_AUTH] Decoding payload...');
-    const payload = JSON.parse(atob(base64));
+    const binString = atob(base64);
+    const bytes = Uint8Array.from(binString, (m) => m.codePointAt(0)!);
+    const payloadStr = new TextDecoder().decode(bytes);
+    const payload = JSON.parse(payloadStr);
     console.log('[SIMPLE_AUTH] Payload decoded:', {
       sub: payload.sub,
       email: payload.email,
