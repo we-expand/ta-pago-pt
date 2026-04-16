@@ -1,0 +1,135 @@
+[Hydrated]
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:9342 🔐 [SUPABASE] Creating NEW singleton instance...
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:9362 ✅ [SUPABASE] Singleton instance created successfully
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:9399 Sentry monitoring disabled (no DSN provided)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83825 [STATE] showBiometricsModal: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83829 
+
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 ╔══════════════════════════════════════════════════════════════╗
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 ║           🔍 DIAGNÓSTICO ELEVENLABS DISPONÍVEL              ║
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 ╚══════════════════════════════════════════════════════════════╝
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 Para executar diagnóstico completo da integração ElevenLabs:
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830   📋 Opção 1: Console JavaScript
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830      Digite: window.openDiagnostics()
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830   📋 Opção 2: URL Directa
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830      Adicione ?diagnostic ao URL e faça refresh
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 O diagnóstico vai testar:
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830   ✓ Variável de ambiente ELEVENLABS_API_KEY
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830   ✓ Fallback KV store
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830   ✓ Validação da chave com API ElevenLabs
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830   ✓ Geração completa de áudio TTS
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 ══════════════════════════════════════════════════════════════
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83830 
+
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83841 [STATE] showOnboarding: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83843 [STATE] session: None
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83871 [BIOMETRIC MODAL] No session, NOT showing modal
+inject.bundle.js:216 [ChromePolyfill] Chrome API support enabled for web context
+(índice):1 Unchecked runtime.lastError: The message port closed before a response was received.Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83070 [SETUP] ElevenLabs configured: sk_b2d917d...af5d
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83846 ✅ [ELEVENLABS] API key configured successfully
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83846 🧪 [ELEVENLABS] Testing API key...
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83078 [TEST] Testing ElevenLabs API key...
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83104 ✅ [ELEVENLABS] Configured and ready
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83104    Source: kv_store
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83104    Key: sk_b2d917d...af5d
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83084 [TEST] Response: Object
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83848 ✅ [ELEVENLABS TEST] API key is VALID! Object
+(índice):1 [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" placeholder=​"••••••••" class=​"w-full pl-12 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:​outline-none focus:​ring-2 focus:​ring-indigo-500/​10 focus:​border-indigo-500 transition-all text-slate-900" required value=​"@Ilona0302" data-listener-added_f078b486=​"true">​
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:25206 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:25213 [LOGIN SUCCESS] cleber.couto@we-expand.com
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Metrics received: null
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Recovery Trend: Array(0)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Score Distribution: Array(0)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Recovery By Channel: Array(0)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 [DASHBOARD] Using final data:
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 - Recovery Trend length: 6
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 - Score Distribution length: 3
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 - Recovery By Channel length: 4
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83843 [STATE] session: Exists
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83859 [BIOMETRIC MODAL] Session detected, checking decision...
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83861 [BIOMETRIC MODAL] Current decision: rejected
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83861 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:83862 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45872 [DASHBOARD] Carregando métricas...
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45872 [DASHBOARD] Token: eyJhbGciOiJFUzI1NiIs...
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/analytics/dashboard:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45874 [DASHBOARD] Dados recebidos: Object
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Metrics received: Object
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Recovery Trend: Array(0)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Score Distribution: Array(0)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45934 [DASHBOARD] Recovery By Channel: Array(0)
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 [DASHBOARD] Using final data:
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 - Recovery Trend length: 6
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 - Score Distribution length: 3
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:45952 - Recovery By Channel length: 4
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:72941 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:72941 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:72941 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:72941 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73364 [VOICE PLAYER] No audio element, generating...
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73333 [TTS] Generating audio for voice: NkpT2jezTenCDRKHkWiX
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73333 [TTS] Script length: 452
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73333 [TTS] Full script: Bom dia, Pedro. Aqui é a Sofia, assistente virtual da Tá Pago.
+
+Estou a ligar relativamente ao pagamento pendente de 2450 euros, com vencimento no dia 15 de março.
+
+Gostaríamos de oferecer condições especiais para regularizar esta situação. Podemos fazer um acordo com desconto à vista ou parcelamento facilitado.
+
+Está interessado em negociar? Se sim, prima 1. Se preferir falar com um atendente humano, prima 2. Para reagendar este contacto, prima 3.
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73338 [TTS] Audio blob received, size: 24 bytes
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73340 [TTS] Audio URL created: blob:https://bug-reveal-55693323.figma.site/89364a9f-9981-47fd-91df-8d1b6ee38830
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73348 [TTS] Audio element created successfully - Ready to play!
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73347 [TTS] Audio error: Event
+(anônimo) @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73347Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: true
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73371 [VOICE PLAYER] Playing audio
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: true
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73371 [VOICE PLAYER] Playing audio
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: true
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73371 [VOICE PLAYER] Playing audio
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: true
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73371 [VOICE PLAYER] Playing audio
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: true
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73371 [VOICE PLAYER] Playing audio
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375Entenda o erro
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Play button clicked
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Has audio element: true
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is playing: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73359 [VOICE PLAYER] Is generating: false
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73371 [VOICE PLAYER] Playing audio
+5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ 5c3402a29b7e239c03c9f7899b558839b027e49c.js:73375Entenda o erro

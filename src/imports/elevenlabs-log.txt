@@ -1,0 +1,79 @@
+[Hydrated]
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:9342 🔐 [SUPABASE] Creating NEW singleton instance...
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:9362 ✅ [SUPABASE] Singleton instance created successfully
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:9399 Sentry monitoring disabled (no DSN provided)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83960 [STATE] showBiometricsModal: false
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83964 
+
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 ╔══════════════════════════════════════════════════════════════╗
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 ║           🔍 DIAGNÓSTICO ELEVENLABS DISPONÍVEL              ║
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 ╚══════════════════════════════════════════════════════════════╝
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 Para executar diagnóstico completo da integração ElevenLabs:
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965   📋 Opção 1: Console JavaScript
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965      Digite: window.openDiagnostics()
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965   📋 Opção 2: URL Directa
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965      Adicione ?diagnostic ao URL e faça refresh
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 O diagnóstico vai testar:
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965   ✓ Variável de ambiente ELEVENLABS_API_KEY
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965   ✓ Fallback KV store
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965   ✓ Validação da chave com API ElevenLabs
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965   ✓ Geração completa de áudio TTS
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 ══════════════════════════════════════════════════════════════
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83965 
+
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83976 [STATE] showOnboarding: false
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83978 [STATE] session: None
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:84006 [BIOMETRIC MODAL] No session, NOT showing modal
+inject.bundle.js:216 [ChromePolyfill] Chrome API support enabled for web context
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83239 ✅ [ELEVENLABS] Configured and ready
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83239    Source: kv_store
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83239    Key: sk_b2d917d...af5d
+(índice):1 Unchecked runtime.lastError: The message port closed before a response was received.Entenda o erro
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83205 [SETUP] ElevenLabs configured: sk_b2d917d...af5d
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83981 ✅ [ELEVENLABS] API key configured successfully
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83981 🧪 [ELEVENLABS] Testing API key...
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83213 [TEST] Testing ElevenLabs API key...
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83219 [TEST] Response: Object
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83983 ✅ [ELEVENLABS TEST] API key is VALID! Object
+(índice):1 [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" placeholder=​"••••••••" class=​"w-full pl-12 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:​outline-none focus:​ring-2 focus:​ring-indigo-500/​10 focus:​border-indigo-500 transition-all text-slate-900" required value=​"@Ilona0302" data-listener-added_d6eaffc1=​"true">​
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:25219 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:25226 [LOGIN SUCCESS] cleber.couto@we-expand.com
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Metrics received: null
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Recovery Trend: Array(0)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Score Distribution: Array(0)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Recovery By Channel: Array(0)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 [DASHBOARD] Using final data:
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 - Recovery Trend length: 6
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 - Score Distribution length: 3
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 - Recovery By Channel length: 4
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83978 [STATE] session: Exists
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83994 [BIOMETRIC MODAL] Session detected, checking decision...
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83996 [BIOMETRIC MODAL] Current decision: rejected
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83996 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:83997 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45885 [DASHBOARD] Carregando métricas...
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45885 [DASHBOARD] Token: eyJhbGciOiJFUzI1NiIs...
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/analytics/dashboard:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45887 [DASHBOARD] Dados recebidos: Object
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Metrics received: Object
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Recovery Trend: Array(0)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Score Distribution: Array(0)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45947 [DASHBOARD] Recovery By Channel: Array(0)
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 [DASHBOARD] Using final data:
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 - Recovery Trend length: 6
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 - Score Distribution length: 3
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:45965 - Recovery By Channel length: 4
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:73361 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:73361 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:72871 [TTS] Generating audio with ElevenLabs: Bom dia, Pedro Silva. O meu nome é Sofia, sou assi...
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/text-to-speech:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:72885 [TTS] Server error: 401 {"error":"ElevenLabs API error: Unauthorized","details":"{\"detail\":{\"status\":\"invalid_api_key\",\"message\":\"Invalid API key\"}}"}
+N @ c5b5f39130c2680e103f3c321852943a9c0e1de8.js:72885Entenda o erro
+c5b5f39130c2680e103f3c321852943a9c0e1de8.js:72897 [TTS] Error generating or playing audio: Error: Server returned 401: {"error":"ElevenLabs API error: Unauthorized","details":"{\"detail\":{\"status\":\"invalid_api_key\",\"message\":\"Invalid API key\"}}"}
+    at N (c5b5f39130c2680e103f3c321852943a9c0e1de8.js:72885:66)
+N @ c5b5f39130c2680e103f3c321852943a9c0e1de8.js:72897Entenda o erro

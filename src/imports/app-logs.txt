@@ -1,0 +1,30 @@
+[Hydrated]
+23ac03187f83d9b40f1437049c4017371cec4eba.js:9342 🔐 [SUPABASE] Creating NEW singleton instance...
+23ac03187f83d9b40f1437049c4017371cec4eba.js:9362 ✅ [SUPABASE] Singleton instance created successfully
+23ac03187f83d9b40f1437049c4017371cec4eba.js:9425 Sentry monitoring disabled (no DSN provided)
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82894 [STATE] showBiometricsModal: false
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82896 [STATE] showOnboarding: false
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82898 [STATE] session: None
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82920 [BIOMETRIC MODAL] No session, NOT showing modal
+inject.bundle.js:216 [ChromePolyfill] Chrome API support enabled for web context
+(índice):1 Unchecked runtime.lastError: The message port closed before a response was received.Entenda o erro
+(índice):1 [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" placeholder=​"••••••••" class=​"w-full pl-12 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:​outline-none focus:​ring-2 focus:​ring-indigo-500/​10 focus:​border-indigo-500 transition-all text-slate-900" required value=​"@Ilona0302" data-listener-added_a9e71373=​"true">​
+23ac03187f83d9b40f1437049c4017371cec4eba.js:25166 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+23ac03187f83d9b40f1437049c4017371cec4eba.js:25173 [LOGIN SUCCESS] cleber.couto@we-expand.com
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Metrics received: null
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Recovery Trend: Array(0)
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Score Distribution: Array(0)
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Recovery By Channel: Array(0)
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82898 [STATE] session: Exists
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82908 [BIOMETRIC MODAL] Session detected, checking decision...
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82910 [BIOMETRIC MODAL] Current decision: rejected
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82910 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+23ac03187f83d9b40f1437049c4017371cec4eba.js:82911 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45484 [DASHBOARD] Carregando métricas...
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45484 [DASHBOARD] Token: eyJhbGciOiJFUzI1NiIs...
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/analytics/dashboard:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45486 [DASHBOARD] Dados recebidos: Object
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Metrics received: Object
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Recovery Trend: Array(0)
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Score Distribution: Array(0)
+23ac03187f83d9b40f1437049c4017371cec4eba.js:45546 [DASHBOARD] Recovery By Channel: Array(0)

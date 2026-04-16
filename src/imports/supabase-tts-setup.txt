@@ -1,0 +1,65 @@
+[Hydrated]
+30c59796233de3d7c82eae5337c48991c0c652b2.js:9342 🔐 [SUPABASE] Creating NEW singleton instance...
+30c59796233de3d7c82eae5337c48991c0c652b2.js:9362 ✅ [SUPABASE] Singleton instance created successfully
+30c59796233de3d7c82eae5337c48991c0c652b2.js:9399 Sentry monitoring disabled (no DSN provided)
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84608 [STATE] showBiometricsModal: false
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84610 [STATE] showOnboarding: false
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84612 [STATE] session: None
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 ╔══════════════════════════════════════════════════════════════╗
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 ║           🎙️ GOOGLE CLOUD TEXT-TO-SPEECH ATIVADO          ║
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 ╚══════════════════════════════════════════════════════════════╝
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 ✅ Sistema configurado para usar Google Cloud TTS
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 🇵🇹 Vozes Neural em Português de Portugal
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 💰 Gratuito: 1 milhão de caracteres/mês
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 📋 Para configurar:
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614    OPÇÃO 1 (RECOMENDADO): Aceda diretamente ao assistente de configuração
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614    👉 URL: /setup/google-tts
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614    OPÇÃO 2: Via dashboard
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614    1. Vá em: Campanhas Multicanal → Aba "Voz IA"
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614    2. Clique em "Configurar Agora"
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614    3. Siga as instruções para obter a API Key
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 📖 Documentação completa: /GOOGLE_TTS_SETUP.md
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 📖 Guia passo a passo: /CONFIGURACAO_GOOGLE_CLOUD_PASSO_A_PASSO.md
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 ══════════════════════════════════════════════════════════════
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84614 
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84636 [BIOMETRIC MODAL] No session, NOT showing modal
+inject.bundle.js:216 [ChromePolyfill] Chrome API support enabled for web context
+(índice):1 Unchecked runtime.lastError: The message port closed before a response was received.Entenda o erro
+(índice):1 [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" placeholder=​"••••••••" class=​"w-full pl-12 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:​outline-none focus:​ring-2 focus:​ring-indigo-500/​10 focus:​border-indigo-500 transition-all text-slate-900" required value=​"@Ilona0302" data-listener-added_cb0e7751=​"true">​
+30c59796233de3d7c82eae5337c48991c0c652b2.js:25245 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+30c59796233de3d7c82eae5337c48991c0c652b2.js:25252 [LOGIN SUCCESS] cleber.couto@we-expand.com
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45973 [DASHBOARD] Metrics received: null
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45973 [DASHBOARD] Recovery Trend: Array(0)
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45973 [DASHBOARD] Score Distribution: Array(0)
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45973 [DASHBOARD] Recovery By Channel: Array(0)
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45991 [DASHBOARD] Using final data:
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45991 - Recovery Trend length: 6
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45991 - Score Distribution length: 3
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45991 - Recovery By Channel length: 4
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84612 [STATE] session: Exists
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84624 [BIOMETRIC MODAL] Session detected, checking decision...
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84626 [BIOMETRIC MODAL] Current decision: rejected
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84626 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84627 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45911 [DASHBOARD] Carregando métricas...
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45911 [DASHBOARD] Token: eyJhbGciOiJFUzI1NiIs...
+30c59796233de3d7c82eae5337c48991c0c652b2.js:73681 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+30c59796233de3d7c82eae5337c48991c0c652b2.js:73681 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/analytics/dashboard:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+30c59796233de3d7c82eae5337c48991c0c652b2.js:45913 [DASHBOARD] Dados recebidos: Object
+(índice):1 [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) <input type=​"password" data-slot=​"input" class=​"file:​text-foreground placeholder:​text-muted-foreground selection:​bg-primary selection:​text-primary-foreground dark:​bg-input/​30 border-input flex h-9 w-full min-w-0 rounded-md border px-3 py-1 bg-input-background transition-[color,box-shadow]​ outline-none file:​inline-flex file:​h-7 file:​border-0 file:​bg-transparent file:​text-sm file:​font-medium disabled:​pointer-events-none disabled:​cursor-not-allowed disabled:​opacity-50 md:​text-sm focus-visible:​border-ring focus-visible:​ring-ring/​50 focus-visible:​ring-[3px]​ aria-invalid:​ring-destructive/​20 dark:​aria-invalid:​ring-destructive/​40 aria-invalid:​border-destructive font-mono text-sm" placeholder=​"AIzaSy..." value>​
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/tts/google/test:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+(índice):1 [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) <input type=​"password" data-slot=​"input" class=​"file:​text-foreground placeholder:​text-muted-foreground selection:​bg-primary selection:​text-primary-foreground dark:​bg-input/​30 border-input flex h-9 w-full min-w-0 rounded-md border px-3 py-1 bg-input-background transition-[color,box-shadow]​ outline-none file:​inline-flex file:​h-7 file:​border-0 file:​bg-transparent file:​text-sm file:​font-medium disabled:​pointer-events-none disabled:​cursor-not-allowed disabled:​opacity-50 md:​text-sm focus-visible:​border-ring focus-visible:​ring-ring/​50 focus-visible:​ring-[3px]​ aria-invalid:​ring-destructive/​20 dark:​aria-invalid:​ring-destructive/​40 aria-invalid:​border-destructive font-mono text-sm" placeholder=​"AIzaSy..." value=​"AIzaSyAgmqNy9AGxcoBO8UV8Ij9I-sUBjJkEPWw" data-listener-added_cb0e7751=​"true">​
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/tts/google/test:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84612 [STATE] session: Exists
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84624 [BIOMETRIC MODAL] Session detected, checking decision...
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84626 [BIOMETRIC MODAL] Current decision: rejected
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84626 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+30c59796233de3d7c82eae5337c48991c0c652b2.js:84627 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/tts/google/test:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro

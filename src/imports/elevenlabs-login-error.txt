@@ -1,0 +1,129 @@
+[Hydrated]
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:9342 🔐 [SUPABASE] Creating NEW singleton instance...
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:9362 ✅ [SUPABASE] Singleton instance created successfully
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:9399 Sentry monitoring disabled (no DSN provided)
+inject.bundle.js:216 [ChromePolyfill] Chrome API support enabled for web context
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83830 [STATE] showBiometricsModal: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83834 
+
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 ╔══════════════════════════════════════════════════════════════╗
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 ║           🔍 DIAGNÓSTICO ELEVENLABS DISPONÍVEL              ║
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 ╚══════════════════════════════════════════════════════════════╝
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 Para executar diagnóstico completo da integração ElevenLabs:
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835   📋 Opção 1: Console JavaScript
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835      Digite: window.openDiagnostics()
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835   📋 Opção 2: URL Directa
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835      Adicione ?diagnostic ao URL e faça refresh
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 O diagnóstico vai testar:
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835   ✓ Variável de ambiente ELEVENLABS_API_KEY
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835   ✓ Fallback KV store
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835   ✓ Validação da chave com API ElevenLabs
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835   ✓ Geração completa de áudio TTS
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 ══════════════════════════════════════════════════════════════
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83835 
+
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83846 [STATE] showOnboarding: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83848 [STATE] session: None
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83876 [BIOMETRIC MODAL] No session, NOT showing modal
+(índice):1 Unchecked runtime.lastError: The message port closed before a response was received.Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83075 [SETUP] ElevenLabs configured: sk_b2d917d...af5d
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83851 ✅ [ELEVENLABS] API key configured successfully
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83851 🧪 [ELEVENLABS] Testing API key...
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83083 [TEST] Testing ElevenLabs API key...
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83109 ✅ [ELEVENLABS] Configured and ready
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83109    Source: kv_store
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83109    Key: sk_b2d917d...af5d
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83089 [TEST] Response: Object
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83853 ✅ [ELEVENLABS TEST] API key is VALID! Object
+(índice):1 [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" placeholder=​"••••••••" class=​"w-full pl-12 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:​outline-none focus:​ring-2 focus:​ring-indigo-500/​10 focus:​border-indigo-500 transition-all text-slate-900" required value=​"@Ilona0302" data-listener-added_652180c1=​"true">​
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25206 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+isbmsgkbghgbcatcwoos.supabase.co/auth/v1/token?grant_type=password:1  Failed to load resource: the server responded with a status of 400 ()Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25212 [LOGIN ERROR] AuthApiError: Invalid login credentials
+    at TE (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:5922:9)
+    at async Uz (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:5948:15)
+    at async ze (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:5934:87)
+    at async CV.signInWithPassword (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:7380:13)
+    at async M (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25207:39)
+M @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25212Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25216 [AUTH ERROR] AuthApiError: Invalid login credentials
+    at TE (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:5922:9)
+    at async Uz (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:5948:15)
+    at async ze (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:5934:87)
+    at async CV.signInWithPassword (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:7380:13)
+    at async M (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25207:39)
+M @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25216Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25206 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:25213 [LOGIN SUCCESS] cleber.couto@we-expand.com
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Metrics received: null
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Recovery Trend: Array(0)
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Score Distribution: Array(0)
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Recovery By Channel: Array(0)
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 [DASHBOARD] Using final data:
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 - Recovery Trend length: 6
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 - Score Distribution length: 3
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 - Recovery By Channel length: 4
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83848 [STATE] session: Exists
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83864 [BIOMETRIC MODAL] Session detected, checking decision...
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83866 [BIOMETRIC MODAL] Current decision: rejected
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83866 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:83867 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45872 [DASHBOARD] Carregando métricas...
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45872 [DASHBOARD] Token: eyJhbGciOiJFUzI1NiIs...
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/analytics/dashboard:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45874 [DASHBOARD] Dados recebidos: Object
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Metrics received: Object
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Recovery Trend: Array(0)
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Score Distribution: Array(0)
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45934 [DASHBOARD] Recovery By Channel: Array(0)
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 [DASHBOARD] Using final data:
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 - Recovery Trend length: 6
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 - Score Distribution length: 3
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:45952 - Recovery By Channel length: 4
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:72941 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:72941 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:72941 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:72941 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Play button clicked
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Has audio element: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Is playing: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Is generating: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73369 [VOICE PLAYER] No audio element, generating...
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73333 [TTS] Generating audio for voice: NkpT2jezTenCDRKHkWiX
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73333 [TTS] Script length: 452
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73333 [TTS] Full script: Bom dia, Pedro. Aqui é a Sofia, assistente virtual da Tá Pago.
+
+Estou a ligar relativamente ao pagamento pendente de 2450 euros, com vencimento no dia 15 de março.
+
+Gostaríamos de oferecer condições especiais para regularizar esta situação. Podemos fazer um acordo com desconto à vista ou parcelamento facilitado.
+
+Está interessado em negociar? Se sim, prima 1. Se preferir falar com um atendente humano, prima 2. Para reagendar este contacto, prima 3.
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73338 [TTS] Audio blob received, size: 24 bytes
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73340 [TTS] Audio URL created: blob:https://bug-reveal-55693323.figma.site/fe467635-8b85-4121-901f-5e9f8e261047
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73348 [TTS] Audio element created successfully
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73347 [TTS] Audio error: Event
+(anônimo) @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73347Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73352 [TTS] Error playing audio: NotSupportedError: Failed to load because no supported source was found.
+S @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73352Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73355 [TTS] Error generating audio: Error: Não foi possível reproduzir o áudio. Clique novamente no Play.
+    at S (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73352:63)
+    at async N (ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73369:70)
+S @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73355Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Play button clicked
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Has audio element: true
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Is playing: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Is generating: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73376 [VOICE PLAYER] Playing audio
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73380 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73380Entenda o erro
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Play button clicked
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Has audio element: true
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Is playing: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73364 [VOICE PLAYER] Is generating: false
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73376 [VOICE PLAYER] Playing audio
+ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73380 [VOICE PLAYER] Error playing audio: NotSupportedError: The element has no supported sources.
+N @ ae0978daf1b75ea275ce016f15fdcb2ea909302b.js:73380Entenda o erro

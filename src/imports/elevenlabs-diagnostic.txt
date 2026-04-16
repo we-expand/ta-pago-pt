@@ -1,0 +1,101 @@
+[Hydrated]
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:9342 🔐 [SUPABASE] Creating NEW singleton instance...
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:9362 ✅ [SUPABASE] Singleton instance created successfully
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:9399 Sentry monitoring disabled (no DSN provided)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83822 [STATE] showBiometricsModal: false
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83826 
+
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 ╔══════════════════════════════════════════════════════════════╗
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 ║           🔍 DIAGNÓSTICO ELEVENLABS DISPONÍVEL              ║
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 ╚══════════════════════════════════════════════════════════════╝
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 Para executar diagnóstico completo da integração ElevenLabs:
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827   📋 Opção 1: Console JavaScript
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827      Digite: window.openDiagnostics()
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827   📋 Opção 2: URL Directa
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827      Adicione ?diagnostic ao URL e faça refresh
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 O diagnóstico vai testar:
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827   ✓ Variável de ambiente ELEVENLABS_API_KEY
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827   ✓ Fallback KV store
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827   ✓ Validação da chave com API ElevenLabs
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827   ✓ Geração completa de áudio TTS
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 ══════════════════════════════════════════════════════════════
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83827 
+
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83838 [STATE] showOnboarding: false
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83840 [STATE] session: None
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83868 [BIOMETRIC MODAL] No session, NOT showing modal
+inject.bundle.js:216 [ChromePolyfill] Chrome API support enabled for web context
+(índice):1 Unchecked runtime.lastError: The message port closed before a response was received.Entenda o erro
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83101 ✅ [ELEVENLABS] Configured and ready
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83101    Source: kv_store
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83101    Key: sk_b2d917d...af5d
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83067 [SETUP] ElevenLabs configured: sk_b2d917d...af5d
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83843 ✅ [ELEVENLABS] API key configured successfully
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83843 🧪 [ELEVENLABS] Testing API key...
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83075 [TEST] Testing ElevenLabs API key...
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83081 [TEST] Response: Object
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83845 ✅ [ELEVENLABS TEST] API key is VALID! Object
+(índice):1 [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) <input type=​"password" placeholder=​"••••••••" class=​"w-full pl-12 pr-12 py-4 bg-slate-50 border border-slate-100 rounded-2xl focus:​outline-none focus:​ring-2 focus:​ring-indigo-500/​10 focus:​border-indigo-500 transition-all text-slate-900" required value=​"@Ilona0302" data-listener-added_ad87045b=​"true">​
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:25206 [LOGIN] Tentando login com: cleber.couto@we-expand.com
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:25213 [LOGIN SUCCESS] cleber.couto@we-expand.com
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Metrics received: null
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Recovery Trend: Array(0)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Score Distribution: Array(0)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Recovery By Channel: Array(0)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 [DASHBOARD] Using final data:
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 - Recovery Trend length: 6
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 - Score Distribution length: 3
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 - Recovery By Channel length: 4
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83840 [STATE] session: Exists
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83856 [BIOMETRIC MODAL] Session detected, checking decision...
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83858 [BIOMETRIC MODAL] Current decision: rejected
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83858 [BIOMETRIC MODAL] User ID: 96c59b17-6917-4ce5-bbad-def1eb87e2d1
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:83859 [BIOMETRIC MODAL] Decision already exists, NOT showing modal
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45872 [DASHBOARD] Carregando métricas...
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45872 [DASHBOARD] Token: eyJhbGciOiJFUzI1NiIs...
+isbmsgkbghgbcatcwoos.supabase.co/functions/v1/make-server-12af7011/analytics/dashboard:1  Failed to load resource: the server responded with a status of 401 ()Entenda o erro
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45874 [DASHBOARD] Dados recebidos: Object
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Metrics received: Object
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Recovery Trend: Array(0)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Score Distribution: Array(0)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45934 [DASHBOARD] Recovery By Channel: Array(0)
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 [DASHBOARD] Using final data:
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 - Recovery Trend length: 6
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 - Score Distribution length: 3
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:45952 - Recovery By Channel length: 4
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:72925 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:72925 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:72925 [CAMPAIGN MANAGER] Componente carregado com sucesso!
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:72925 [CAMPAIGN MANAGER] Total de acções mockadas: 6
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73356 [VOICE PLAYER] Play button clicked
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73356 [VOICE PLAYER] Has audio element: false
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73356 [VOICE PLAYER] Is playing: false
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73356 [VOICE PLAYER] Is generating: false
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73361 [VOICE PLAYER] No audio element, generating...
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73317 [TTS] Generating audio for voice: NkpT2jezTenCDRKHkWiX
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73317 [TTS] Script length: 452
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73317 [TTS] Full script: Bom dia, Pedro. Aqui é a Sofia, assistente virtual da Tá Pago.
+
+Estou a ligar relativamente ao pagamento pendente de 2450 euros, com vencimento no dia 15 de março.
+
+Gostaríamos de oferecer condições especiais para regularizar esta situação. Podemos fazer um acordo com desconto à vista ou parcelamento facilitado.
+
+Está interessado em negociar? Se sim, prima 1. Se preferir falar com um atendente humano, prima 2. Para reagendar este contacto, prima 3.
+undefined.supabase.co/functions/v1/make-server-12af7011/tts/generate:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVEDEntenda o erro
+0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73347 [TTS] Error generating audio: TypeError: Failed to fetch
+    at S (0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73318:23)
+    at N (0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73361:76)
+    at Object.cD (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:9858)
+    at dD (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:10012)
+    at pD (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:10069)
+    at iE (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:31464)
+    at PC (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:31881)
+    at sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:36794
+    at pS (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:8:36897)
+    at tC (sites-runtime.86e279557c5e1f5126709056e9632a9e445865cbde71b16945a9e01e79ead38c.js:5:8991)
+S @ 0ab957fcaab706c0d41492a4950c5ed7ecb10097.js:73347Entenda o erro
