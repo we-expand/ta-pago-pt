@@ -185,8 +185,9 @@ export default function App() {
       console.log('[BIOMETRIC MODAL] Current decision:', hasDecision);
       console.log('[BIOMETRIC MODAL] User ID:', userId);
       
+      // TEMPORARIAMENTE DESABILITADO - Investigando erro removeChild
       // Apenas mostrar modal se usuário ainda NÃO decidiu (nem accepted, nem rejected)
-      if (!hasDecision) {
+      if (false && !hasDecision) { // Adicionado 'false &&' para desabilitar
         console.log('[BIOMETRIC MODAL] No decision found, showing modal in 2s...');
         timer = setTimeout(() => {
           console.log('[BIOMETRIC MODAL] Setting showBiometricsModal to TRUE');

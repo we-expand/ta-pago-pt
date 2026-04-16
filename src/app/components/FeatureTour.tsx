@@ -55,7 +55,8 @@ export default function FeatureTour() {
 
   useEffect(() => {
     const completed = localStorage.getItem('tapago_tour_completed');
-    if (!completed) {
+    // TEMPORARIAMENTE DESABILITADO - Investigando erro removeChild
+    if (false && !completed) { // Adicionado 'false &&' para desabilitar
       // Aumentar delay para evitar conflito com modal biométrico (que aparece em 2s)
       const timer = setTimeout(() => setIsVisible(true), 4000);
       return () => clearTimeout(timer);
